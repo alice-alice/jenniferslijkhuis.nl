@@ -1,0 +1,23 @@
+* {
+    /* outline: 1px solid magenta; */
+}
+
+body {
+
+}
+
+img {
+    width: 10%;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+.sm-icon {
+    width: 2.5em;
+    height: auto;
+}
